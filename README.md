@@ -9,4 +9,4 @@ For now, just zsh themes for ease of use with zsh plugin managers like
 
 [af-magic](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#af-magic) + [passion](https://github.com/ChesterYue/ohmyzsh-theme-passion)
 
-[screenshot](./img/passionate-magic.png)
+![screenshot](./img/passionate-magic.png)
